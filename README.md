@@ -1,2 +1,2 @@
 # newGitTest
-First rep on git hub
+First repo on git hub
